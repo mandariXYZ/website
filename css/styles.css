@@ -8,7 +8,8 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
+    background-color: #F2EFEB;
+    color: #216934;
 }
 
 /* Navigation */
@@ -85,8 +86,8 @@ nav ul li a:hover {
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #2c3e50;
-    color: white;
+    background-color: #216934;
+    color: #F2EFEB;
 }
 
 /* Responsive Design */
