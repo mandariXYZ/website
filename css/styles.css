@@ -16,13 +16,12 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem;
     background-color: #216934;
-    color: white;
+    color: #F2EFEB;
 }
 
 .logo {
-    width: 150px;
+    width: 300px;
     height: auto;
     display: block;
 }
